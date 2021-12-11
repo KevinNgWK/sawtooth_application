@@ -1,0 +1,3 @@
+
+class XoException(Exception):
+    pass
